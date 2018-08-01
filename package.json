@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-background-service",
+  "version": "1.0.0",
+  "description": "cordova plugin for background service",
+  "cordova": {
+    "id": "cordova-plugin-background-service",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nayyarjamal1/cordova-plugin-background-service.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "Nayyar Jamal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nayyarjamal1/cordova-plugin-background-service/issues"
+  },
+  "homepage": "https://github.com/Nayyarjamal1/cordova-plugin-background-service#readme"
+}
